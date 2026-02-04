@@ -1,0 +1,49 @@
+cff-version: 1.2.0
+title: Research Scheduler (Doodle-like WordPress plugin)
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - family-names: González Peñaloza
+    given-names: Félix
+    affiliation: IRNAS-CSIC
+  - family-names: de la Rosa
+    given-names: José María
+    affiliation: IRNAS-CSIC
+  - family-names: González Pérez
+    given-names: José Antonio
+    affiliation: IRNAS-CSIC
+  - family-names: Campos
+    given-names: Paloma
+    affiliation: IRNAS-CSIC
+  - family-names: Cascajosa Lira
+    given-names: Antonio
+    affiliation: IRNAS-CSIC
+  - family-names: Sánchez Martín
+    given-names: Águeda M.
+    affiliation: IRNAS-CSIC
+  - family-names: Pérez Dalí
+    given-names: Sara M.
+    affiliation: IRNAS-CSIC
+  - family-names: Monis Carrere
+    given-names: Desiré
+    affiliation: IRNAS-CSIC
+  - family-names: Rodríguez-López
+    given-names: Claudia
+    affiliation: IRNAS-CSIC
+  - family-names: Carmona Navarro
+    given-names: Alba María
+    affiliation: IRNAS-CSIC
+  - family-names: Márquez Moreno
+    given-names: Jorge
+    affiliation: IRNAS-CSIC
+  - family-names: Cuella
+    given-names: Daniel
+    affiliation: IRNAS-CSIC
+  - family-names: García Ruiz
+    given-names: Olaya
+    affiliation: IRNAS-CSIC
+  - family-names: Bravo García
+    given-names: Javier
+    affiliation: EVENOR
+license: GPL-2.0-or-later
+
